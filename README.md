@@ -39,6 +39,3 @@ This project applies **Machine Learning** techniques to the famous **Titanic dat
 ## 📊 Evaluation  
 - Classification report (accuracy, precision, recall, F1-score).  
 - Confusion matrix visualization for better interpretability.  
-
-## ⚙️ Requirements  
-Create a `requirements.txt` file with:  
